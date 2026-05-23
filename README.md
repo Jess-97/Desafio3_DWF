@@ -136,14 +136,6 @@ Se desarrollaron las interfaces visuales del sistema y se realizó la integraci�
 npm install
 npm run dev
 ```
-
-## Backend
-
-```bash
-mvn spring-boot:run
-```
-
----
 # 👨‍💻 Proyecto académico
 
 - Jessica Paola Alvarez Sanchez. -AS241238
