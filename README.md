@@ -146,5 +146,5 @@ mvn spring-boot:run
 ---
 # 👨‍💻 Proyecto académico
 
-Jessica Paola Alvarez Sanchez. -AS241238
-Gisselle Esmeralda Rodriguez Benitez. -RB243017
+- Jessica Paola Alvarez Sanchez. -AS241238
+- Gisselle Esmeralda Rodriguez Benitez. -RB243017
